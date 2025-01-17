@@ -1,0 +1,7 @@
+services:
+  sd-notifier:
+    container_name: sd-notifier
+    build:
+      context: .
+      dockerfile: dockerfile
+    restart: unless-stopped

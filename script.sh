@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3 /root/steam_deck_stock_checker/checker.py
+python3 /<ROOT_DIR>/steam-deck-stock-checker/checker.py

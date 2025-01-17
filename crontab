@@ -1,0 +1,2 @@
+* * * * * root PATH=/usr/local/bin:$PATH python3 /app/checker.py >> /app/checker.log 2>&1
+# Newline that is required
